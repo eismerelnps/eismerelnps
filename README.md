@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Eismer+elnps....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋,+I'm Eismer!;Wish+the+BEST+for+you+today....;Nice+to+meet+you!&center=true&size=30">
   </a>
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Adrewdev?color=1DA1FE&logo=Twitter&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/eismerlobaina?color=1DA1FE&logo=Twitter&style=flat-square)
 
 Here are some ideas to get you started: 
 
