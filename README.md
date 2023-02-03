@@ -1,14 +1,12 @@
+ ![Twitter Follow](https://img.shields.io/twitter/follow/eismerlobaina?color=1DA1FE&logo=Twitter&style=flat-square)
 <div align="center">
 <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=20">
   </a>
 </div>
 ---
-
-
 <nav align="center">
- ![Twitter Follow](https://img.shields.io/twitter/follow/eismerlobaina?color=1DA1FE&logo=Twitter&style=flat-square)
-<p align="center">
+<p align="center" border{1px solid red}>
 - 🔭 I’m currently working on personal projects<br>
 - 🌱 I’m currently learning JAVA, Kotlin, JS, HTML, CSS<br>
 - 👯 I am currently studying Computer Science Engineering at UCI<br>
