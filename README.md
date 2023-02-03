@@ -5,14 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning JAVA, Kotlin, JS, HTML, CSS
-- 👯 I am currently studying engineering in computer science at UCI
-- :heart: I love Frontend-UI/UX developdevelopment 
+ 
 -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Andrey+Rdz....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Eismer+elnps....;Nice+to+meet+you!&center=true&size=30">
   </a>
 
 ---
@@ -21,17 +18,17 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started: 
 
-- 🔭 I'm currently studying Computer Science Engineering...
-- 🌱 I'm currently learning java...
-- 👯 Looking to collaborate on related projects...
-- 🤔 I'm looking for help with what I can...
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning JAVA, Kotlin, JS, HTML, CSS
+- 👯 I am currently studying Computer Science Engineering at UCI
+- :heart: I love Frontend-UI/UX developdevelopment
 
 
 ---
 
 ### 🚀 Coding
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
