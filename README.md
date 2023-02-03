@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+👋,+I'm Eismer!;Wish+the+BEST+for+you+today....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=30">
   </a>
 
 ---
