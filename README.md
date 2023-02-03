@@ -4,9 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=20">
   </a>
 </div>
+
 ---
 <nav align="center">
-<p align="center" border{1px solid red}>
+<p align="center" border: 1px solid lightcoral;>
 - 🔭 I’m currently working on personal projects<br>
 - 🌱 I’m currently learning JAVA, Kotlin, JS, HTML, CSS<br>
 - 👯 I am currently studying Computer Science Engineering at UCI<br>
