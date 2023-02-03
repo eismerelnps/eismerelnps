@@ -1,21 +1,12 @@
-### Hi there 👋
-
-<!--
-**eismerelnps/eismerelnps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 
--->
 <div align="center">
 <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=30">
   </a>
 </div>
 ---
 
 
-<div align="center">
+<nav align="center">
  ![Twitter Follow](https://img.shields.io/twitter/follow/eismerlobaina?color=1DA1FE&logo=Twitter&style=flat-square)
 <p align="center">
 - 🔭 I’m currently working on personal projects<br>
@@ -23,9 +14,9 @@ Here are some ideas to get you started:
 - 👯 I am currently studying Computer Science Engineering at UCI<br>
 - :heart: I love Frontend-UI/UX development<br>
    </p>
-</div>
+</nav>
 
 ---
-
+<div align="center">
 <a align="center" href="https://github.com/eismerelnps/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eismerelnps&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-
+</div>
