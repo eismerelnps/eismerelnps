@@ -1,3 +1,7 @@
+<a align="center" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=20">
+  </a>
+  
 <div align="center">
 <a href="http://twitter.com/eismerlobaina">
     <img src="https://img.shields.io/twitter/follow/eismerlobaina?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Eismer Lobaina's Twitter"/>
@@ -8,11 +12,8 @@
   <a href="https://www.linkedin.com/in/eismerlobaina">
     <img src="https://img.shields.io/badge/LinkedIn-450-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
+    </div>
 
-<a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Eismer+Lobaina....;Nice+to+meet+you...;Wish+the+best+for+you+today...!&center=true&size=20">
-  </a>
-</div>
 
 ---
 <nav align="center">
@@ -21,8 +22,8 @@
 - 🌱 I’m currently learning JAVA, Kotlin, JS, HTML, CSS<br>
 - 👯 I am currently studying Computer Science Engineering at UCI<br>
 - :heart: I love Frontend-UI/UX development<br>
-- 🌍 I'm based in Havana 🇨🇺
-- ✉️ Contact me at contact.eismerlobaina@gmail.com 
+- 🌍 I'm based in Havana 🇨🇺<br>
+- ✉️ Contact me at contact.eismerlobaina@gmail.com <br>
    </p>
 </nav>
 
