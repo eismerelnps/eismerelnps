@@ -1,4 +1,3 @@
- ![Twitter Follow](https://img.shields.io/twitter/follow/eismerlobaina?color=1DA1FE&logo=Twitter&style=flat-square)
 <div align="center">
 <a href="http://twitter.com/eismerlobaina">
     <img src="https://img.shields.io/twitter/follow/eismerlobaina?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Eismer Lobaina's Twitter"/>
