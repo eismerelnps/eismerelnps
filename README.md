@@ -23,16 +23,16 @@
 ---
 <div align="center">
     <p> Contact me: </p>
-<a href="http://twitter.com/eismerlobaina">
+<a href="http://twitter.com/eismerlobaina" target="_blank">
     <img src="https://img.shields.io/twitter/follow/eismerlobaina?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Eismer Lobaina's Twitter"/>
   </a>
-  <a href="https://t.me/eismerlobaina">
+  <a href="https://t.me/eismerlobaina" target="_blank">
     <img src="https://img.shields.io/badge/-blue?label=Telegram&logo=Telegram&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/eismerlobaina">
+  <a href="https://www.linkedin.com/in/eismerlobaina" target="_blank">
     <img src="https://img.shields.io/badge/-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
-     <a href="mailto:eismerlobaina@gmail.com">
+     <a href="mailto:eismerlobaina@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-blue?label=Gmail&logo=Gmail&style=for-the-badge" />
   </a>
     </div>
