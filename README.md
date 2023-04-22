@@ -8,7 +8,7 @@
 <nav align="center">
 <p align="center" border: 1px solid lightcoral;>
 - 🔭 I’m currently working on personal projects<br>
-- 🌱 I’m currently learning JAVA, Kotlin, JS, HTML, CSS<br>
+- 🌱 I’m currently learning JAVA, REACT, Kotlin, JS, HTML, CSS<br>
 - 👯 I am currently studying Computer Science Engineering at UCI<br>
 - :heart: I love Frontend-UI/UX development<br>
 - 🌍 I'm based in Havana 🇨🇺<br>
